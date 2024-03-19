@@ -1,7 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thông NT
-================================================================================================================================
+[![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://www.facebook.com/pham.tien.son.2004/)
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code+ExtraBold&pause=1000&random=false&width=500&height=70&duration=4000&size=35&center=true&lines=Hi+There!%F0%9F%91%8B;I'm+Nguyen Minh Thong!+%E2%9D%84%EF%B8%8F" alt="Typing SVG" /></a>
+</h1>
+<h3 align="center">Student at STU university</h3>
 
-Student at STU university
+
 -------------------------
 
 * 🌍  I'm based in Đăk Nông
