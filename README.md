@@ -26,6 +26,17 @@
 
 <b>My GitHub Stats</b>
 
+<table style="width:100%;">
+  <tr>
+    <td style="width:70%;">
 <a href="http://www.github.com/thongnt78"><img src="https://github-readme-stats.vercel.app/api?username=thongnt78&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=a855f7&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="thongnt78's GitHub stats" /></a>
-
 <a href="http://www.github.com/thongnt78"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thongnt78&stroke=a855f7&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=a855f7&currStreakLabel=14b8a6&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+    </td>
+    <td style="width:30%;">
+      <p align="center"> 
+        <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
